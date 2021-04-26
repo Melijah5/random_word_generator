@@ -1,0 +1,41 @@
+.jumbotron {
+    min-height: 100px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.btnSubmit {
+    border-radius: 1.5rem;
+    background-color: greenyellow;
+    height: 70px;
+    width: 170px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 1.5rem;
+    height: 70px;
+    width: 385px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    background-color: lightpink;
+}
+
+.btn {
+    border-radius: 1.5rem;
+    height: 70px;
+}
+
+.form-label {
+    font-weight: bold;
+    color: green;
+}
